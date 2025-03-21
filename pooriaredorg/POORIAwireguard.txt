@@ -9,11 +9,3 @@ warp://188.114.99.225:4177/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#PooriaRed7
 warp://188.114.96.242:1010/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#PooriaRed8
 
 warp://188.114.97.67:942/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#PooriaRed9
-
-warp://188.114.98.115:4500/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#POORIA1
-
-warp://188.114.97.139:7152/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#POORIA2
-
-warp://162.159.192.177:8854/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#POORIA3
-
-warp://188.114.97.67:942/?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#POORIA10
